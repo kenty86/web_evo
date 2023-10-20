@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+.Weaber_one img{
+	width : 50%;
+	float : left;
+}
+.wax{
+	display : flex;
+}
+.wax img{
+	width : 35%
+}
+.wax-status{
+	margin-left : 25px
+}
+.wax-explain{
+	margin-left : 40px;
+}
+.home{
+	font-size : 50px;
+	color : orangered;
+}

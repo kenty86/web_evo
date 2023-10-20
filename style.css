@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+header{
+	background-color : blue;
+	position : fixed;
+	top : 0;
+	left : 0;
+	width : 100%;
+}
+.head-contents{
+}
+.head-contents a{
+	color : white;
+	padding : 15px;
+	margin : 0 10px;
+	display : block;
+	float : left;
+}
+.head-contents a :hover{
+	background-color : rgba(0,59,114,0.8);
+}
+.top{
+    background-color: aqua ;
+}
+.top-container{
+	width : 100%;
+	height : 400px;
+	text-align : center;
+	padding : 200px 0;
+}
+.top-container h1{
+	font-size : 70px;
+}
+.blog {
+	font-size : 50px
+}
